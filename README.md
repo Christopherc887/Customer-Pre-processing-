@@ -1,2 +1,2 @@
-# Customer-Pre-processing
-Extracting, pre-processing and visualisation of customer's information 
+# Customer's Data Preprocessing 
+Extracting and pre-processing of customer's information using dictionary, list, JSON, and functions in Python 
