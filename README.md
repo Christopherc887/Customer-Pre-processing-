@@ -1,2 +1,2 @@
 # Customer's Data Preprocessing 
-Extracting and pre-processing of customer's information using dictionary, list, JSON, and functions in Python 
+Extracting, pre-processing, analysis and visualisation of customer's information using dictionary, list, JSON, functions, pandas and seaborn in Python 
